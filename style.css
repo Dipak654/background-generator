@@ -1,0 +1,20 @@
+body {
+	background-color: "linear-gradient (to right, red, green, yellow, pink)";
+    margin: 10px;
+}
+
+h1 {
+	text-align: center;
+	font-size :140px;
+	color: "linear-gradient(to left, pink, grey)";
+}   
+
+input {
+	content: center;
+}
+
+h2 {
+	text-align: center;
+	font-size: 70px;
+}
+
